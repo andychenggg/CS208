@@ -23,7 +23,7 @@ chapter 0 -- induction, recursive function and contradiction
 
 
 
-# CS209 计算机系统设计与应用
+# CS208 算法设计与分析
 
 ## 本仓库介绍
 
