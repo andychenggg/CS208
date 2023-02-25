@@ -11,7 +11,8 @@ This course maily introduce strict proofs and usages of some algorithms.
 ## Update Rules
 
 1. I will try my best to update it once a week
-2. I will try my best to update it in both Chinese and English
+2. 
+3. I will try my best to update it in both Chinese and English
 
 ## Some expectations of the author:
 
@@ -37,6 +38,7 @@ chapter 1 (includes lab 1) -- static matching problems, test procedures
 ## 更新规则
 
 1.我会尽量每周更新一次
+
 2.我会尽量更新中英文版本
 
 ## 作者的一些期待：
