@@ -11,8 +11,8 @@ This course maily introduce strict proofs and usages of some algorithms.
 ## Update Rules
 
 1. I will try my best to update it once a week
-2. 
-3. I will try my best to update it in both Chinese and English
+
+2. I will try my best to update it in both Chinese and English
 
 ## Some expectations of the author:
 
