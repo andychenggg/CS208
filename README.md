@@ -44,4 +44,4 @@ chapter 0 -- induction, recursive function and contradiction
 
 ## 上传的部分
 
-章节1 -- 演绎法，递归函数，反证法
+章节0 -- 演绎法，递归函数，反证法
