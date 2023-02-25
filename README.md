@@ -20,7 +20,7 @@ If you feel that these documents have helped you, you can light up a small **sta
 ## Uploaded part(s)
 
 chapter 0 -- induction, recursive function and contradiction
-
+chapter 1 (includes lab 1) -- static matching problems, test procedures
 
 
 # CS208 算法设计与分析
@@ -45,3 +45,4 @@ chapter 0 -- induction, recursive function and contradiction
 ## 上传的部分
 
 章节0 -- 演绎法，递归函数，反证法
+章节1（内部包含实验1） -- 静态匹配问题，如何测试一个程序
