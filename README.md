@@ -24,6 +24,9 @@ chapter 0 -- induction, recursive function and contradiction
 
 chapter 1 (includes lab 1) -- static matching problems, test procedures
 
+tellDifference.java -- tell difference between two strings or files
+
+QReaderQwriter.java -- used for quicker reading and writing
 
 # CS208 算法设计与分析
 
@@ -50,3 +53,7 @@ chapter 1 (includes lab 1) -- static matching problems, test procedures
 章节0 -- 演绎法，递归函数，反证法
 
 章节1（内部包含实验1） -- 静态匹配问题，如何测试一个程序
+
+tellDifference.java -- 用于区分字符串和文件的不同
+
+QReaderQwriter.java -- 用来进行快速的控制台读写
