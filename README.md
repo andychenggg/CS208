@@ -20,13 +20,21 @@ If you feel that these documents have helped you, you can light up a small **sta
 
 ## Uploaded part(s)
 
+in **main** branch
+
 chapter 0 -- induction, recursive function and contradiction
 
 chapter 1 (includes lab 1) -- static matching problems, test procedures
 
+chapter 2 (includes lab 2) -- algorithm analysis and some representative problem
+
+in **master** branch
+
 tellDifference.java -- tell difference between two strings or files
 
 QReaderQwriter.java -- used for quicker reading and writing
+
+Lab1 assignment -- sample code for stable matching
 
 # CS208 算法设计与分析
 
@@ -50,10 +58,18 @@ QReaderQwriter.java -- used for quicker reading and writing
 
 ## 上传的部分
 
+在**main**分支
+
 章节0 -- 演绎法，递归函数，反证法
 
 章节1（内部包含实验1） -- 静态匹配问题，如何测试一个程序
 
+章节2（内部包含实验2） -- 算法分析和一些有代表性的问题
+
+在**master**分支
+
 tellDifference.java -- 用于区分字符串和文件的不同
 
 QReaderQwriter.java -- 用来进行快速的控制台读写
+
+实验1的作业 -- 稳定匹配的样例代码
