@@ -28,6 +28,8 @@ chapter 1 (includes lab 1) -- static matching problems, test procedures
 
 chapter 2 (includes lab 2) -- algorithm analysis and some representative problem
 
+chapter 3 (includes lab 3) -- BFS, Bipartiteness, Connectivity, DAG and topological order
+
 in **master** branch
 
 tellDifference.java -- tell difference between two strings or files
@@ -65,6 +67,8 @@ Lab1 assignment -- sample code for stable matching
 章节1（内部包含实验1） -- 静态匹配问题，如何测试一个程序
 
 章节2（内部包含实验2） -- 算法分析和一些有代表性的问题
+
+章节3（包括实验 3）-- BFS、二分性、连通性、DAG 和拓扑顺序
 
 在**master**分支
 
